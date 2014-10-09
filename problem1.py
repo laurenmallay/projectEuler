@@ -1,5 +1,5 @@
 ###############################################################
-# Project Euler Problem 1									  #
+# Project Euler Problem 1				      #
 # Sum of multiples of some divisor(s) less than some number n #
 ###############################################################
 
