@@ -10,4 +10,4 @@ def lexographical_permutation(n, *numbers):
 	numbers.enumerate()
 	return numbers 
 			
-print lexographical_permutation(3, 0,1,2)
+print lexographical_permutation(3, 0, 1, 2)
